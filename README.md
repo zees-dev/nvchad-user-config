@@ -20,6 +20,7 @@ git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 #### Clone the repository
 
 ```shell
+rm -rf ~/.config/nvim/lua/custom/
 git clone https://github.com/zees-dev/nvchad-user-config ~/.config/nvim/lua/custom --depth 1
 ```
 
